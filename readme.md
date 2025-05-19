@@ -1,4 +1,4 @@
-README - vCard Manager Assignment (CIS*2750)
+README - vCard Manager
 
 Author: Mosu Patel
 ID: 1220619
