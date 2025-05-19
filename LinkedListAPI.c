@@ -1,8 +1,5 @@
 /***********************************************
  * Name: Mosu Patel
- * StudentID: 1220619
- * Course: CIS 2750 
- * Assignment: 1
  * Date: February 10th 2025
  * Description: This file is the LinkedListAPI
  ***********************************************/
